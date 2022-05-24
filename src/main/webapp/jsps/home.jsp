@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology.
 	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
 	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
-	We offer interview preparations and job assitance.No nonsense No blushit </h2>
+	We offer interview preparations and job assitance. </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
