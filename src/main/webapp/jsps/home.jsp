@@ -10,9 +10,8 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
+<h2 align="center"> Welcome to my Technology.
+	my Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.Dev </h2>
 <hr>
 <div style="text-align: center;">
@@ -20,20 +19,20 @@
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
+		mt Technology, 
+		CA,USA
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		test@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:my@gmail.com">Mail to my Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>my Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">my Technologies</a> </small></p>
 
 </body>
 </html>
