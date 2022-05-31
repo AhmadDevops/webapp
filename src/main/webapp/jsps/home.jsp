@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>MyTech.com- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
+<h1 align="center">my tech Technologies</h1>
 <h2 align="center"> Welcome to my Technology.
 	my Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.Dev </h2>
