@@ -12,7 +12,7 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>my Technologies</name>
 		<url>http://3.92.134.45:8081/</url>
 	</organization>
 
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>my Technologies Releases Nexus Repository</name>
 	      <url> http://3.92.134.45:8081/repository/WebRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>my Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.92.134.45:8081/repository/WebSnapshot/</url>
 	    </snapshotRepository>
 	    
