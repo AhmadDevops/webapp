@@ -7,11 +7,11 @@
 	<packaging>war</packaging>
 	<version>0.0.3</version>
 	
-	<groupId>com.mt</groupId>
+	<!-- <groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.3-SNAPSHOT</version>
-	
+	-->
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
@@ -150,9 +150,6 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-			
 </plugins>
 	</build>
-	
-	
 </project>
