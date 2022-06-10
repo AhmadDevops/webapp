@@ -1,8 +1,4 @@
-Jenkinsfile
-//@Library('LibraryName') _ 
-// Declarative pipeline
 
-@Library('LandmarkSS-sharedlibs') _
 pipeline {
 agent any 
 tools {
